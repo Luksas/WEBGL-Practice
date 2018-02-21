@@ -1,1 +1,1 @@
-#STΛRMΛN -- GAME
+# STΛRMΛN GAME
