@@ -1,1 +1,1 @@
-# WEBGL-Practice
+# AstromanWEBGL
