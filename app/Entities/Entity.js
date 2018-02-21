@@ -1,12 +1,13 @@
+import { Rectangle } from '../Shapes/Rectangle.js';
+
 export class Entity {
 	
-	constructor(collision_bounds) {
-		console.log("created entity");
-		this.collision_bounds = collision_bounds;
-	};
-	
-	Tick(em){};
+    constructor(collision_bounds) {
+        this.collision_bounds = collision_bounds;
+    };
 
-	Render(screen){};
+    Tick(em){};
+
+    Render(screen){};
 	
 };
