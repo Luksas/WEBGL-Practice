@@ -10,6 +10,7 @@ export class EntityManager {
 
     Add(entity)
     {	
+        console.log(this);
         this.entities.push(entity);
     };
 
